@@ -1,0 +1,9 @@
+jupyterlab
+requests
+pandas
+textblob
+plotly.express
+voila
+numpy
+bs4
+plotly.graph_objects
