@@ -7,3 +7,4 @@ voila
 numpy
 bs4
 plotly
+lxml
