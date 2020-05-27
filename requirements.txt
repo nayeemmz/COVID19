@@ -8,3 +8,4 @@ numpy
 bs4
 plotly
 lxml
+matplotlib
