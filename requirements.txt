@@ -6,4 +6,4 @@ plotly.express
 voila
 numpy
 bs4
-plotly.graph_objects
+plotly
